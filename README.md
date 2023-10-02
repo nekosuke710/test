@@ -1,2 +1,2 @@
-# test
-this is test.
+# kadai
+for kadai
